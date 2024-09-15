@@ -1,0 +1,14 @@
+{
+  "name": "github-w-jest",
+  "version": "1.0.0",
+  "description": "github-w-jest",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^29.7.0"
+  }
+}
